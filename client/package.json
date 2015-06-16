@@ -1,0 +1,17 @@
+{
+  "name": "selfie",
+  "version": "0.0.0",
+  "description": "take selfies",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "frame": false,
+    "position": "center",
+    "fullscreen": false,
+    "resizable": true,
+    "transparent": true,
+    "width": 1000,
+    "height": 800
+  }
+}
+

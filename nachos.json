@@ -1,0 +1,8 @@
+{
+  "name": "selfie",
+  "version": "0.0.0",
+  "type": "dip",
+  "main": "client\\index.html",
+  "settings": "client\\global-settings\\global-settings.html",
+  "layout": "widget"
+}
